@@ -14,15 +14,17 @@ This is a simple To-Do List application developed using Python and tkinter GUI t
 ## Installation
 1. Ensure you have Python installed (version 3.6 or above).
 2. Clone the repository:
+ ```sh
 git clone https://github.com/FujoshiShidsuki/Building-a-TO-DO-List-Application.git
-3. Navigate to the project directory:
-cd todo-list
-Copy code
-4. Run the application:
-python todo_app.py
-
-markdown
-Copy code
+```
+4. Navigate to the project directory:
+ ```sh
+cd Building-a-TO-DO-List-Application
+```
+5. Run the application:
+ ```sh
+python To_Do_List.py
+```
 
 ## Usage
 - **Adding a Task**: Enter task details in the input fields and click on the "Add Task" button.
