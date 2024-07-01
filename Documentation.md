@@ -14,14 +14,9 @@ This is a simple To-Do List application developed using Python and tkinter GUI t
 ## Installation
 1. Ensure you have Python installed (version 3.6 or above).
 2. Clone the repository:
-git clone https://github.com/your_username/todo-list.git
-
-css
-Copy code
+git clone [https://github.com/your_username/todo-list.git](https://github.com/FujoshiShidsuki/Building-a-TO-DO-List-Application.git)
 3. Navigate to the project directory:
 cd todo-list
-
-markdown
 Copy code
 4. Run the application:
 python todo_app.py
