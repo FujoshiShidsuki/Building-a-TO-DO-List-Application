@@ -17,7 +17,7 @@ class ToDoListApp:
         self.search_var = tk.StringVar()
 
 
-        tk.Label(root, text="Task Name:").grid(row=1, column=0, padx=10, pady=5)
+        tk.Label(root, text="Task Name: ").grid(row=1, column=0, padx=10, pady=5)
         tk.Entry(root, textvariable=self.task_name_var).grid(row=1, column=1, padx=10, pady=5)
         
         tk.Label(root, text="Due Date:").grid(row=2, column=0, padx=10, pady=5)
